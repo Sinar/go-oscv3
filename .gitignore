@@ -10,3 +10,13 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Ignore VSCode stuff
+.vscode
+
+# Ignore direnv
+.envrc*
+
+# Ignore raw data folder
+raw
+
